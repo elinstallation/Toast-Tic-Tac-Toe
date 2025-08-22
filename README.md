@@ -1,4 +1,4 @@
-# Toast-Tic-Tac-Toe (Pygame Practice) 🍓🫐
+# Toast Tic-Tac-Toe (Pygame Practice) 🍓🫐
 
 ## Features
 
